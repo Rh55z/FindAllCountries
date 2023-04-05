@@ -1,0 +1,12 @@
+<a [routerLink]="['/']" routerLinkActive="router-link-active">
+    <div class="card-item">
+        <img [src]="country.flag" class="card-image">
+        <div class="card-content">
+            <h6 class="title">{{country.name}}</h6>
+            <p *ngIf="country.population"><span class="label">Population: </span>{{country.population|number}}</p>
+            <p *ngIf="country.region"><span class="label">Region: </span>{{country.region}}</p>
+            <p *ngIf="country.capital"><span class="label">Capital: </span>{{country.capital}}</p>
+            <p *ngIf="country.timezones"><span class="label">Timezone: </span>{{country.timezones}}</p>
+        </div>
+    </div>
+</a>

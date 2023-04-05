@@ -1,0 +1,9 @@
+<div class="container mt-5">
+    <div class="d-flex flex-column flex-sm-row justify-content-between">
+        <div>Rechercher</div>
+        <div>Filtrer</div>
+    </div>
+    <div class="cards">
+        <app-country-card *ngFor="let countries of countries|async" [country]="countries" ></app-country-card>
+    </div>
+</div>
