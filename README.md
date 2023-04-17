@@ -3,6 +3,7 @@
 # Table des matieres
 
 1. [Application de visualisation de données de pays](#Appli)
+    
     1.2 [Fonctionnalités](#fonctionnalités)
 3. [UI](#ui)
 2. [Les methodes](#les-methodes)
