@@ -1,5 +1,13 @@
 # RestCountriesApp
 
+# Table des matieres
+
+1. [Application de visualisation de données de pays](#Appli)
+    1.2 [Fonctionnalités](#fonctionnalités)
+3. [UI](#ui)
+2. [Les methodes](#les-methodes)
+4. [API](#api)
+
 ## Application de visualisation de données de pays
 
 Cette application utilise l’API Rest Countries pour extraire des données sur les pays et les afficher
