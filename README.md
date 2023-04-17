@@ -24,7 +24,7 @@ Les fonctionnalités de l’application comprennent :
 
 ## UI
 
-!(https://github.com/Rh55z/FindAllCountries/blob/main/img/UI.png)
+![](https://github.com/Rh55z/FindAllCountries/blob/main/img/UI.png)
 
 ## Les methodes
 
