@@ -22,6 +22,10 @@ Les fonctionnalités de l’application comprennent :
 
 • Possibilité de basculer entre un thème clair et sombre (optionnel)
 
+## UI
+
+!(https://github.com/Rh55z/FindAllCountries/blob/main/img/UI.png)
+
 ## Les methodes
 
 #### country-list.component.ts
